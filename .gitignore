@@ -1,0 +1,10 @@
+# Dependencies
+/node_modules/
+
+# Vercel
+/.vercel/
+
+# Next.js
+/.next/
+
+.vercel
